@@ -1,0 +1,6 @@
+# Referenced at /Users/rafaelferreiradasilva/gitProjects/telescope_demo_ptbr/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/rafaelferreiradasilva/gitProjects/telescope_demo_ptbr/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:26
+-keep class com.example.telescope_dml_eleicoes_vinhedo.MainActivity { <init>(); }
+# Referenced at /Users/rafaelferreiradasilva/gitProjects/telescope_demo_ptbr/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }

@@ -1,16 +1,11 @@
-# telescope_dml_eleicoes_vinhedo
+# Telescope
 
-A new Flutter project.
+The telescope project is a mobile application for taking surveys in remote areas where internet doesn't work well.
 
-## Getting Started
+This app can store the data in a SQLite database inside the device and sync data trought the on cloud database when it get internet access.
 
-This project is a starting point for a Flutter application.
+## Technologies:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dart + Flutter
+- MySql + SQlite Databases
+- PHP RestAPI
